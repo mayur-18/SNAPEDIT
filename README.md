@@ -3,12 +3,12 @@ including filters, rotation, text addition, and basic image corrections such as 
 
 **# Features**
 
- **Image Uploading:**
+ **.Image Uploading:**
  
    Upload images in jpg, png, or jpeg formats.
    Display the original image in the sidebar for comparison.
  
- **Filters:**
+ **.Filters:**
  
    Grayscale: Converts the image to black and white.
    
@@ -20,16 +20,16 @@ including filters, rotation, text addition, and basic image corrections such as 
    
    Sketch: Converts the image to a sketch-like appearance.
  
- **Image Rotation:**
+ **.Image Rotation:**
  
    Rotate the image to any angle between -180 and 180 degrees.
  
- **Add Text to Image:**
+ **.Add Text to Image:**
  
    Add custom text to the image.
    Adjust the size and position of the text.
  
- **Image Corrections:**
+ **.Image Corrections:**
  
    Contrast: Adjusts the contrast of the image.
    
@@ -37,7 +37,7 @@ including filters, rotation, text addition, and basic image corrections such as 
    
    Sharpness: Adjusts the sharpness of the image.
   
- **Tools:**
+ **.Tools:**
  
    Image Cropping: Crop the image with a customizable aspect ratio.
    
@@ -60,4 +60,4 @@ including filters, rotation, text addition, and basic image corrections such as 
   **4.Open in Browser:**
   
     The application should open automatically in your default web browser.
-    If not, navigate to http://localhost:8501 in your browser.
+    If not, navigate to **http://localhost:8501** in your browser.
